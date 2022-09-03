@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/coins"
+        android:enabled="true"
+        android:icon="@drawable/ic_bottom_coins"
+        android:title="@string/bottom_menu_coins"/>
+<!--        -->
+
+    <item
+        android:id="@+id/news"
+        android:enabled="true"
+        android:icon="@drawable/ic_bottom_news"
+        android:title="@string/bottom_menu_news"/>
+</menu>

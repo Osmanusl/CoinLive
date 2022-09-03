@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "398791206036",
+    "project_id": "coinlive-1af65",
+    "storage_bucket": "coinlive-1af65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398791206036:android:463f7ebea11cb7a0420081",
+        "android_client_info": {
+          "package_name": "com.osmanuslu.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398791206036-7cc0cio7r8ragflkq42erve2rt4d355k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvsQBH8PCPY1kDzO99e_vIcCbeqUCF91g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398791206036-7cc0cio7r8ragflkq42erve2rt4d355k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

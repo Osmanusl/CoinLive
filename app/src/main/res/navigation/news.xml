@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/news"
+    app:startDestination="@id/newsFragment">
+
+    <fragment
+        android:id="@+id/newsFragment"
+        android:name="com.osmanuslu.myapplication.view.fragments.NewsFragment"
+        android:label="News" >
+        <action
+            android:id="@+id/action_newsFragment_to_loginFragment"
+            app:destination="@id/loginFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.osmanuslu.myapplication.view.fragments.LoginFragment"
+        android:label="LoginFragment" />
+</navigation>
